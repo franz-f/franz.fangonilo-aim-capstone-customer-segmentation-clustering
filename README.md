@@ -22,6 +22,8 @@ Superstore Sales Dataset (Kaggle)
 K-Means (k = 2)
 
 ## Repository Structure
+
+```text
 capstone-project/
 │
 ├── data/
@@ -67,7 +69,7 @@ capstone-project/
 │   └── Fangonilo_Franz_Capstone Project Write-up.docx
 │
 └── README.md              
- 
+```
 
 ## Reproducibility
 1. Install dependencies:
