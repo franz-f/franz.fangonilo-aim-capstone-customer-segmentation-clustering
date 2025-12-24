@@ -36,7 +36,7 @@ capstone-project/
 │       ├── X_pca.xlsx
 │       └── X_preprocessed_selected
 │
-├── arrays
+├── arrays/
 │       ├── labels/
 │       │   ├── agg_labels_k2.npy
 │       │   ├── dbscan_labels_eps1.5_ms10.npy
