@@ -1,0 +1,5 @@
+{
+  "model": "agglomerative",
+  "k": 2,
+  "linkage": "ward"
+}

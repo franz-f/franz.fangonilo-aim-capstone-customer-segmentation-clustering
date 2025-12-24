@@ -1,0 +1,5 @@
+{
+  "model": "kmeans",
+  "k": 2,
+  "random_state": 42
+}

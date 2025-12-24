@@ -1,0 +1,17 @@
+variable,data_type,missing_pct,min,max,mean,unit_or_range
+Order_ID,object,0.0,,,,Categories: 4922
+Order_Date,object,0.0,,,,Categories: 1230
+Ship_Date,object,0.0,,,,Categories: 1326
+Ship_Mode,object,0.0,,,,Categories: 4
+Customer_ID,object,0.0,,,,Categories: 793
+Customer_Name,object,0.0,,,,Categories: 793
+Segment,object,0.0,,,,Categories: 3
+Country,object,0.0,,,,Categories: 1
+City,object,0.0,,,,Categories: 529
+State,object,0.0,,,,Categories: 49
+Region,object,0.0,,,,Categories: 4
+Product_ID,object,0.0,,,,Categories: 1861
+Category,object,0.0,,,,Categories: 3
+Sub_Category,object,0.0,,,,Categories: 17
+Product_Name,object,0.0,,,,Categories: 1849
+Sales,float64,0.0,0.444,22638.48,230.76905945918367,Numeric

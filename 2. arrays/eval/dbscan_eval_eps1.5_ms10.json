@@ -1,0 +1,9 @@
+{
+  "eval": {
+    "n_clusters": 2,
+    "noise_pct": 10.34047919293821,
+    "silhouette": 0.3537017628957764,
+    "davies_bouldin": 0.798920609918533,
+    "calinski_harabasz": 90.63995437894947
+  }
+}

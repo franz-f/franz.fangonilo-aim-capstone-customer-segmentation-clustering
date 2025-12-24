@@ -1,0 +1,13 @@
+{
+  "eval": {
+    "n_clusters": 2,
+    "noise_pct": 0.0,
+    "silhouette": 0.1989691355158942,
+    "davies_bouldin": 1.801444117070905,
+    "calinski_harabasz": 223.76097036541577
+  },
+  "stability": {
+    "silhouette_mean": 0.25171351230424244,
+    "silhouette_std": 0.05164436601828744
+  }
+}
